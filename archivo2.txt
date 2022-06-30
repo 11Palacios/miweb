@@ -1,1 +1,2 @@
-mi primer programa v0.2
+mi primer programa v1.2
+nueva version
